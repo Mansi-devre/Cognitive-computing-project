@@ -1,0 +1,51 @@
+food,meal_type,diet,calories,protein_g,carbs_g,fat_g,fiber_g,taste_score
+Oats,Breakfast,Vegetarian,150,5,27,4,6,1
+Poha,Breakfast,Vegetarian,180,4,32,3,5,2
+Upma,Breakfast,Vegetarian,220,6,35,6,4,2
+Idli,Breakfast,Vegetarian,120,4,25,1,2,2
+Masala Dosa,Breakfast,Vegetarian,280,7,38,10,4,2
+Besan Chilla,Breakfast,Vegetarian,210,11,25,7,5,2
+Paneer Bhurji,Breakfast,Vegetarian,260,18,8,17,2,2
+Greek Yogurt,Breakfast,Vegetarian,130,11,9,4,0,2
+Banana,Snack,Vegetarian,105,1,27,0,3,1
+Apple,Snack,Vegetarian,95,0,25,0,4,1
+Roasted Chana,Snack,Vegetarian,170,9,27,3,7,1
+Sprouts Chaat,Snack,Vegetarian,160,10,22,4,6,2
+Peanuts,Snack,Vegetarian,170,7,6,15,2,1
+Buttermilk,Snack,Vegetarian,80,4,6,3,0,1
+Almonds,Snack,Vegetarian,165,6,6,14,4,1
+Dal Tadka,Lunch,Vegetarian,230,12,30,7,9,2
+Rajma Rice,Lunch,Vegetarian,420,14,68,9,10,2
+Chole Rice,Lunch,Vegetarian,440,15,70,10,12,2
+Vegetable Pulao,Lunch,Vegetarian,350,8,55,10,5,2
+Paneer Tikka,Lunch,Vegetarian,300,22,10,19,3,2
+Palak Paneer,Lunch,Vegetarian,320,19,13,20,4,2
+Mixed Veg Roti,Lunch,Vegetarian,330,10,50,9,8,2
+Tofu Stir Fry,Lunch,Vegetarian,280,20,18,15,6,2
+Khichdi,Lunch,Vegetarian,320,12,52,7,8,2
+Curd Rice,Lunch,Vegetarian,300,9,50,7,2,2
+Vegetable Soup,Dinner,Vegetarian,140,5,20,4,5,1
+Dal Roti,Dinner,Vegetarian,360,14,52,10,9,2
+Paneer Roti,Dinner,Vegetarian,390,22,42,15,7,2
+Tofu Curry Rice,Dinner,Vegetarian,410,20,50,13,7,2
+Moong Dal Khichdi,Dinner,Vegetarian,300,13,47,7,8,2
+Vegetable Dalia,Dinner,Vegetarian,260,9,43,6,7,2
+Palak Tofu,Dinner,Vegetarian,280,20,15,15,6,2
+Grilled Paneer Salad,Dinner,Vegetarian,330,24,14,21,6,2
+Fruit Bowl,Snack,Vegetarian,140,2,34,1,5,1
+Makhana,Snack,Vegetarian,130,4,22,3,3,1
+Lassi,Snack,Vegetarian,180,7,24,6,0,2
+Vegetable Sandwich,Snack,Vegetarian,250,9,38,7,5,2
+Hummus Roti Roll,Lunch,Vegetarian,340,12,45,12,8,2
+Sambar Rice,Lunch,Vegetarian,360,10,63,7,8,2
+Vegetable Biryani,Lunch,Vegetarian,390,9,61,12,5,2
+Matar Paneer,Dinner,Vegetarian,350,20,18,22,5,2
+Chana Salad,Lunch,Vegetarian,280,13,38,8,10,2
+Dahi,Snack,Vegetarian,100,6,7,5,0,2
+Milk,Snack,Vegetarian,120,6,9,5,0,2
+Ragi Dosa,Breakfast,Vegetarian,230,6,40,6,5,2
+Vegetable Uttapam,Breakfast,Vegetarian,240,8,38,7,5,2
+Moong Chilla,Breakfast,Vegetarian,190,12,25,4,5,2
+Soya Chunk Curry,Dinner,Vegetarian,290,25,18,11,8,2
+Quinoa Veg Bowl,Lunch,Vegetarian,360,14,50,11,7,2
+Chia Yogurt Bowl,Breakfast,Vegetarian,220,10,22,10,7,1
