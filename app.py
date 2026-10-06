@@ -4,8 +4,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-ROOT=Path(__file__).resolve().parent
-foods=pd.read_csv(ROOT/"food_dataset.csv")
+foods=pd.read_csv("food_dataset.csv")
 
 st.set_page_config(page_title="Cognitive Food Recommendation",page_icon="🥗",layout="wide")
 st.title("🥗 Cognitive Food Recommendation & Nutrition Analysis")
